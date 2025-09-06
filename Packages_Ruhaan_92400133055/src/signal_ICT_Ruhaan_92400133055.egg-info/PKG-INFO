@@ -1,0 +1,31 @@
+Metadata-Version: 2.4
+Name: signal-ICT-Ruhaan-92400133055
+Version: 0.1.0
+Summary: A signal processing package with unitary and trigonometric signals
+Author-email: Ruhaan <rkp2905t@gmail.com>
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+Requires-Dist: numpy>=1.20.0
+Requires-Dist: matplotlib
+
+Signal ICT Package
+
+A Python package for signal processing with unitary and trigonometric signals.
+
+## Installation
+
+```bash
+pip install signal-ICT-Ruhaan-92400133055
+
+Usage
+pythonfrom signal_ICT_Ruhaan_92400133055 import unitary_signals, trigonometric_signals, operations
+
+
+Features
+
+Unitary signal processing
+Trigonometric signal operations
+Signal manipulation operations

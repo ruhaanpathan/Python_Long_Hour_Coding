@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "signal-ICT-Ruhaan-92400133055"
+version = "0.1.0"
+description = "A signal processing package with unitary and trigonometric signals"
+readme = "README.md"
+requires-python = ">=3.7"
+authors = [
+    {name = "Ruhaan", email = "rkp2905t@gmail.com"}
+]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+dependencies = [
+    "numpy>=1.20.0",
+    "matplotlib"
+]
